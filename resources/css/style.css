@@ -2,12 +2,13 @@
 
 * {
     font-family: Verdana;
-    text-align: center;
+   
 }
 
 html {
     color: white;
     background-color: black;
+    text-align: center;
 }
 
 h1 {
