@@ -2,38 +2,37 @@
 
 * {
     font-family: Verdana;
-    background-color: black;
     text-align: center;
 }
 
 html {
     color: white;
+    background-color: black;
 }
 
-#Heading1 {
+h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
 }
 
-#Heading2 {
+h2 {
     font-weight: 300;
     font-size: 42px;
 }
 
-#Link{
+a {
     color: aquamarine;
     font-size: 16px;
 }
 
-#subscript {
+p {
     font-size: 21px;
     color: gray;
 }
 
-#Footer{
-    color: gray;
+#Footer {
     text-align: right;
 }
 
